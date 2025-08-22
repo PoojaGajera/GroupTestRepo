@@ -1,5 +1,5 @@
 # basic_calculator.py
-vedika vedika
+vedika vedik
 def add(a, b):
     return a + b
 
